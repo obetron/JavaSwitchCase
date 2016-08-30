@@ -52,6 +52,8 @@ public class SwitchCaseSample {
             case 12:
                 ayDegeriStr = "Aralık";
                 break;
+            default:
+                break;
 
         }
 
